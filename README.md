@@ -1,0 +1,2 @@
+# Yahtzee
+Play the game
